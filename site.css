@@ -1,0 +1,43 @@
+#Page1 {
+  min-height: 100vh;
+  background: linear-gradient(90deg, #dbd5d8, #635635 50% 100%);
+}
+
+#nnavbarNavAltMarkup {
+  background-color: black;
+}
+
+#garage {
+  font-size: 20px;
+}
+
+.text-bienvenue {
+  font-size: 50px;
+}
+
+.text {
+  font-size: 20px;
+}
+
+.button {
+  background: linear-gradient(90deg, #ff3592, #ffb800 50% 100%);
+  background-size: 200% 100%;
+  background-position: center;
+  transition: all 0.5s;
+  text-transform: uppercase;
+  border-radius: 40px;
+  padding: 10px 20px;
+}
+
+#Pagevehicule {
+  margin: 100px;
+  background-position: center;
+}
+
+#card {
+  margin: 20px;
+}
+
+#card2 {
+  margin: 100px;
+}
